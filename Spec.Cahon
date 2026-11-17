@@ -1,0 +1,23 @@
+{
+    schema?: ""; // schema
+
+    struct object: {
+
+    }; // object
+
+    int array = [
+
+    ];
+    char: ""; // single line object
+
+    char: "" = ""; // double line object
+
+    int: "" = [
+
+    ]; // object array 
+
+    struct: "" = {
+
+    }; // schema object
+
+}
